@@ -1,3 +1,4 @@
+package src;
 //app entry point, Handles user interaction and orchestrates the flow of the program.
 
 public class ScientificCalculatorApp{

@@ -1,4 +1,4 @@
-package Utilities;
+package src.Utilities;
 //Specialized for trigonometric conversions (e.g., degrees ↔ radians).
 
 public class TrigUtils {
