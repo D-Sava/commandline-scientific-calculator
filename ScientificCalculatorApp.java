@@ -2,6 +2,8 @@
 
 public class ScientificCalculatorApp{
     public static void main(String[] args){
-            
+
+            CommandlineInterface cli = new CommandlineInterface();
+            cli.startInteractiveMode();
     }
 }
